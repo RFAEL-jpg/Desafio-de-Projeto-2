@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Sorrir - O essencial para o seu Pet!</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        .header { 
+            text-align:center;
+        }
+         
+    </style>
+</head>
+<body style="font-family:Inter">
+<div class="wrapper">
+<div class="menu">
+  <ul>
+    <li>
+   <a style="color: rgb(60, 224, 60);" href="Clínica Veterinária.html"><h4>Página Principal</h4></a>
+    </li>
+    <li>
+      <a style="color: rgb(60, 224, 60);" href="Sobre a Clínica.html" title="O que fazemos na Clínica"><h4>Sobre a Clínica</h4></a>
+    <li>
+      <a style="color: rgb(60, 224, 60);"  href="Horário de Atendimento.html" title="Horários disponíveis para atendimento"><h4>Horário de Atendimento</h4></a>
+    </li>
+    <li>
+      <a style="color: rgb(60, 224, 60);"  href="Contato.html" title="Informações de contato"><h4>Contato</h4></a>
+    </li>
+  </ul>
+  
+</div>
+<div class="main">  
+     <div class="header">
+        <img src="https://cdn-icons-png.flaticon.com/512/2365/2365014.png" width="250"; height="250">
+      </div>
+
+      <div class="content">
+        <h2>
+          Página Principal
+        </h2>
+           <hr>
+       <p>
+        Em 2002, a Clínica Geral Veterinária Sorrir foi fundada com o intuito de ajudar os animais nas regiões mais rurais, oferecendo ajuda e medicina essenciais para o seu pet com clínicas espalhadas por todo o Acre. Na Clínica Sorrir, aliamos tecnologia de ponta com o mais alto padrão em medicina veterinária.
+        <br>
+        Oferecemos desde consultas especializadas até exames avançados, cirurgias complexas e atendimento de emergência 24 horas.
+       <br> Todos os nossos serviços possuem qualidade premium com valores acessíveis, pois acreditamos que cuidados veterinários de excelência devem estar ao alcance de todos os tutores.<br>
+        Mais informações, consulte o nosso menu no canto superior esquerdo. 
+       </p>
+      </div>
+            <div class="footer"><hr>
+              <p>
+                <b>Informações de Contato:</b><br>
+               Número: (+55)68 8069-7690<br>
+               Endereço: Rua Sra Clara Menkeiver, Nº30|Bairro:Vanlámer<br>
+              </p>
+             </div>  
+ </div>
+
+</div>
+    
+</body>
+</html>
