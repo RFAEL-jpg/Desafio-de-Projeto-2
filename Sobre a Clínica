@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Sorrir - O essencial para o seu Pet!</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        .header { 
+            text-align:center;
+        }
+         
+    </style>
+</head>
+<body style="font-family:Inter">
+<div class="wrapper">
+<div class="menu">
+<ul>
+      <li>
+     <a style="color: rgb(60, 224, 60);" href="Clínica Veterinária.html"><h4>Página Principal</h4></a>
+      </li>
+      <li>
+        <a style="color: rgb(60, 224, 60);" href="Sobre a Clínica.html" title="O que fazemos na Clínica"><h4>Sobre a Clínica</h4></a>
+      <li>
+        <a style="color: rgb(60, 224, 60);"  href="Horário de Atendimento.html" title="Horários disponíveis para atendimento"><h4>Horário de Atendimento</h4></a>
+      </li>
+      <li>
+        <a style="color: rgb(60, 224, 60);"  href="Contato.html" title="Informações de contato"><h4>Contato</h4></a>
+      </li>
+</ul>
+</div>
+<div class="main">  
+      <div class="header">
+    <img src="https://static.vecteezy.com/system/resources/previews/011/617/905/non_2x/veterinary-clinic-symbol-caduceus-snake-with-stick-illustration-png.png" width="300"; height="250">
+      </div>
+
+      <div class="content">
+        <h2>
+          Sobre a Clínica
+        </h2>
+           <hr>
+       <p>
+        A Clínica Veterinária Sorrir foi fundada em 2002 por Thomas e Amanda Linfler. O casal abriu o estabelecimento juntamente após perceberem que definitivamente faltava uma abordagem humanizada e especializada no atendimento prestado aos seus bichos no município em que moravam. 
+        <br>Com um pequeno espaço, em poucos anos, o sucesso da qualidade do serviço prestado levou à expansão da clínica.<br>
+        Em <strong>2005</strong>, a clínica abriu serviço de urgência 24 horas.<br> 
+        O objetivo era dar suporte imediato aos animais em estado crítico, tornando a clínica um ponto de referência na região.<br>
+        A Sorrir, em <strong>2010</strong>, passou a ter um centro de exames com aparelhos de última geração, com ultrassonografia e laboratório próprio, permitindo o resultado rápido e confiável.<br>
+        Em <strong>2016</strong>, a clínica foi premiada como “Melhor Atendimento Veterinário” em nível regional que não fez senão reforçar a dedicação, a excelência e ao tratamento personalizado.
+        <blockquote>"Foi uma honra a Clínica Veterinária Sorrir ter sido nomeada como a de melhor atendimento, sempre prezamos pela educação e pelo cuidado dos animais."</blockquote><u>Disse Amanda Linfler em uma entrevista</u>.<br> 
+        <br>À medida que a empresa cresceu, também houve um aumento do número de especialistas em áreas medicina veterinários, como cardiologia e dermatologia.<br>
+        A Clínica Veterinária Sorrir segue com o seu compromisso de tratar cada bichinho como se fosse um membro da nossa família e buscando sempre as melhores soluções e alternativas para promover a saúde e o bem-estar de seu pet.
+       </p>
+       
+    </div>
+            <div class="footer"><hr>
+              <p>
+                <b>Informações de Contato:</b><br>
+               Número: (+55)68 8069-7690<br>
+               Endereço: Rua Sra Clara Menkeiver, Nº30|Bairro:Vanlámer<br>
+              </p>
+             </div>  
+ </div>
+
+</div>
+    
+</body>
+</html>
